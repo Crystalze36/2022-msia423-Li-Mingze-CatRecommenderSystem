@@ -1,13 +1,13 @@
 # MSIA_423_CrystalLi_movie_recommender_system
-The Movie Recommender System 
+The Cat Species Recommender System 
 
-## Author: Crystal Li
+### Author: Crystal Li
 ### QA: Rachel Zhao
 
 ## Charter
 
 ### Vision
-In the worldwide quarantine, cats are one of the biggest channels for companion. While people will normally run out of potential movie list during this long Covid-19 battle, it is important to recommend more fitable cat species for people to sustain this valuable human-cat relationship. This project is aimed to find users’ potentially interested cats based on their provided cat species.
+In the worldwide quarantine, cats are one of the biggest resouces of companion. While people will normally run out of patiences on some non-fitable cat species during this long Covid-19 battle, it is important to recommend more fitable cat species for people to sustain this valuable human-cat relationship. This project is aimed to find users’ potentially interested cats based on their provided cat species.
    
 ### Mission
 - Users will input their 3 selected cat species based on their preferences, taste, or habits. The recommendation system would present 3 cat species that matches the users’ taste most.
