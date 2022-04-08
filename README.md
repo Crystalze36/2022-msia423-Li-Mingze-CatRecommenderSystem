@@ -15,7 +15,7 @@ In the worldwide quarantine, cats are one of the biggest resouces of companion. 
 
 ### Success criteria
 -1. The project is based on recommender system, which is unsupervised. The app will mainly aim to raise the relativity between the input data and output data. Thus, the app will first recommend the top 3 cat species with the highest absolute scores. Then, it will repeat the process for 3 times to figure out the highest mean relativity. Meanwhile, since the dataset is large, it will also focus on coverage of the dataset. 
-- 2. The project aims to suggest the cat species based on users’ preference and taste. Thus, the app will provide links to access the recommended cat species on difference channels, such as Youtube, Wiki, and potential breeder etc. The business metric will be click-through rate and conversion rate. 
+-2. The project aims to suggest the cat species based on users’ preference and taste. Thus, the app will provide links to access the recommended cat species on difference channels, such as Youtube, Wiki, and potential breeder etc. The business metric will be click-through rate and conversion rate. 
 
 
 
