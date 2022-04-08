@@ -1,4 +1,4 @@
-# MSIA_423_CrystalLi_movie_recommender_system
+# MSIA_423_CrystalLi_cat_recommender_system
 The Cat Species Recommender System 
 
 ### Author: Crystal Li
